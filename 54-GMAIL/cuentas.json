@@ -1,0 +1,40 @@
+{
+    "cuentas": [
+      {
+        "correo": "usuario1@gmail.com",
+        "contrasena": "contrasena1",
+        "mensajes": [
+          {
+            "de": "usuario2@gmail.com",
+            "asunto": "Prueba de mensaje",
+            "fecha": "2022-02-20",
+            "contenido": "Este es un mensaje de prueba"
+          },
+          {
+            "de": "usuario3@gmail.com",
+            "asunto": "Otro mensaje de prueba",
+            "fecha": "2022-02-21",
+            "contenido": "Este es otro mensaje de prueba"
+          }
+        ]
+      },
+      {
+        "correo": "usuario2@gmail.com",
+        "contrasena": "contrasena2",
+        "mensajes": [
+          {
+            "de": "usuario1@gmail.com",
+            "asunto": "Respuesta al mensaje de prueba",
+            "fecha": "2022-02-20",
+            "contenido": "Gracias por el mensaje de prueba"
+          }
+        ]
+      },
+      {
+        "correo": "usuario3@gmail.com",
+        "contrasena": "contrasena3",
+        "mensajes": []
+      }
+    ]
+  }
+  
